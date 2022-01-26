@@ -1,10 +1,10 @@
 # Plants Web
 
 This is a web template Made in:
--HTML
--CSS
--Sass
--JavaScript
+*HTML
+*CSS
+*Sass
+*JavaScript
 
 It is a plant store where you can put your products to buy and part of contacts.
 
