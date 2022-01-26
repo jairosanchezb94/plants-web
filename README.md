@@ -1,12 +1,13 @@
 # Plants Web
 
-This is a web template Made in:
-*HTML
-*CSS
-*Sass
-*JavaScript
-
-It is a plant store where you can put your products to buy and part of contacts.
+<h1 align="left">This is a web template Made in:</h1>
+<p align="left">
+<h3>HTML</h3>
+<h3>CSS</h3>
+<h3>Sass</h3>
+<h3>JavaScript</h3>
+<h2>It is a plant store where you can put your products to buy and part of contacts.</h2>
+</p>
 
 ![Captura de pantalla 2022-01-26 172317](https://user-images.githubusercontent.com/32551746/151203434-9e950a9a-f41b-496b-8651-ed54517b60eb.png)
 
